@@ -1,0 +1,25 @@
+.NavItems {
+  display: flex;
+  justify-content: center;
+}
+
+.NavItems a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.NavItems a:hover {
+    color: #485fc7;
+}
+
+.NavigationBar {
+  background-color: var(--mainColor) !important;
+  color: white !important;
+  width: 100% !important;
+  height: 15%;
+  margin-bottom: 3%;
+}

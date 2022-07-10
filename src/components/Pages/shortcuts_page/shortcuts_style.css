@@ -1,0 +1,6 @@
+.roundedInput{
+  border-radius: 1rem !important;
+  width: 70%;
+  height: 30px;
+  font-size: 1rem;
+}

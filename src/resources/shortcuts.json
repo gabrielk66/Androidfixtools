@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Abrir Settings",
+    "link": "intent://com.android.settings/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir Google Search ",
+    "link": "intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir My Files ( Samsung )",
+    "link": "intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir My Files ( Google ) ",
+    "link": "intent://com.google.android.apps.nbu.files/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir Files ",
+    "link": "intent://com.android.documentsui/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir Android Web View ",
+    "link": "intent://com.google.android.webview/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir Google Chrome ",
+    "link": "intent://com.android.chrome/#Intent;scheme=android-app;end"
+  },
+
+  {
+    "name": "Abrir Quickshortcutmaker",
+    "link": "intent://com.sika524.android.quickshortcut/#Intent;scheme=android-app;end"
+  }
+]

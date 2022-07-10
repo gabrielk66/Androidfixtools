@@ -1,0 +1,64 @@
+:root{
+  
+  --mainColor: #363636;
+  --text-color-primary: #ffffff80;
+  --text-color-secondary: #485fc7;
+  --text-light-black-color: #212529;
+ 
+}
+
+.text-title {
+  font-size: xx-large !important;
+}
+
+.subtext-title {
+  font-size: x-large !important;
+}
+
+.textTitle {
+  font-size: large !important;
+}
+
+.text-center{
+  text-align: center;
+}
+
+html, body {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-color: #121212 !important;
+} 
+
+.text-white{
+  color: white;
+}
+
+.text-color-primary{
+  color: #ffffff80;
+}
+
+.text-color-secondary{
+  color: #485fc7;
+}
+ 
+.App{
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+.centered{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.customButton{
+  background-color: var(--text-color-secondary); 
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+}

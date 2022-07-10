@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  max-width: 70%;
+  max-height: 15%;
+  background-color: var(--mainColor) !important;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.imageZoomOut {
+   transform: scale(0.8, 0.8) !important;
+}
+
+.horizontal-card {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 10%;
+    background-color: var(--mainColor) !important;
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--text-color-primary);
+    margin-top: 10px;  
+}
+
+.horizontal-card:hover{
+  box-shadow: 0 0.5px 5px 0 blueviolet;
+}
