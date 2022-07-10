@@ -1,6 +1,8 @@
 # Android Fix Tools
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b5efdd8-0726-4f26-8c86-b78e0c3ac3f0/deploy-status)]()
+
 Criado utilizando ReactJS e suas bibliotecas nativas\
-Hospedado na Netlify visite o link do website em [aqui](http://localhost:3000)
+Hospedado na Netlify visite o link do website em [aqui](https://androidfixtools.netlify.app/)
 
 # Building
 Após ter instalado as dependencias ( `npm install` ).\
